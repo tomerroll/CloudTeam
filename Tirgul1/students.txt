@@ -1,3 +1,5 @@
-Alice Johnson, alice@example.com, ['Math', 'Science', 'History'], 
-Bob Smith, bob@example.com, ['Physics', 'Chemistry'], 
-Charlie Brown, charlie@example.com, ['Computer Science', 'Physics', 'Literature'], 
+Arad Harush, Arad.Harush@e.braude.ac.il, ['Math', 'Science', 'History'], 
+Tomer Roll, tomer.roll@e.braude.ac.il, ['Physics', 'Chemistry'], 
+Lidor Ben Hamo, Lidor.ben.hemo@e.braude.ac.il, ['Computer Science', 'Physics', 'Literature'],
+Tom Biton, Tom.Bitton@e.braude.ac.il, ['Computer Science', 'Physics', 'Literature'],
+Yahli Rapaport, Yahli.Rapaport@e.braude.ac.il, ['Computer Science', 'Physics', 'Literature'],
