@@ -1,0 +1,37 @@
+[
+  {
+    "first_name": "Tom",
+    "last_name": "Biton",
+    "email": "tom.biton@e.braude.ac.il",
+    "courses_this_semester": ["Introduction to Algorithms", "Development Methodologies", "Object-Oriented Programming"],
+    "favorite_animal": "Cat"
+  },
+  {
+    "first_name": "Arad",
+    "last_name": "Harush",
+    "email": "arad.harush@e.braude.ac.il",
+    "courses_this_semester": ["Operating Systems", "Computer Architecture", "Distributed Data Systems"],
+    "favorite_animal": "Dog"
+  },
+  {
+    "first_name": "Tomer",
+    "last_name": "roll",
+    "email": "maya.golan@e.braude.ac.il",
+    "courses_this_semester": ["Introduction to Computer Science", "Systems Programming", "Software Engineering"],
+    "favorite_animal": "Rabbit"
+  },
+  {
+    "first_name": "Yahli",
+    "last_name": "Rapaport",
+    "email": "Yahli.Rapaport@e.braude.ac.il",
+    "courses_this_semester": ["C++ Programming", "Computer Networks", "Introduction to Artificial Intelligence"],
+    "favorite_animal": "Fish"
+  },
+  {
+    "first_name": "Lidor",
+    "last_name": "Ben Hamo",
+    "email": "lidor.ben.hamo@e.braude.ac.il",
+    "courses_this_semester": ["Android App Development", "Graph Theory", "Technology Project Management"],
+    "favorite_animal": "Monkey"
+  }
+]
