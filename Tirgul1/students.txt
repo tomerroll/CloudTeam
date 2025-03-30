@@ -1,0 +1,3 @@
+Alice Johnson, alice@example.com, ['Math', 'Science', 'History'], 
+Bob Smith, bob@example.com, ['Physics', 'Chemistry'], 
+Charlie Brown, charlie@example.com, ['Computer Science', 'Physics', 'Literature'], 
