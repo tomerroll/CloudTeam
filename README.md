@@ -1,4 +1,6 @@
-# Introduction to Cloud Computing - Classmates
+# Aligator
+
+## Introduction to Cloud Computing - Classmates
 
 This repository contains information about the students in the "Introduction to Cloud Computing" course.
 
